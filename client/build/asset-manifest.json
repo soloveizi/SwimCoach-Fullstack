@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SwimCoach-Fullstack/static/css/main.c95c06f7.css",
+    "main.js": "/SwimCoach-Fullstack/static/js/main.1fbda610.js",
+    "static/js/453.258b012d.chunk.js": "/SwimCoach-Fullstack/static/js/453.258b012d.chunk.js",
+    "static/media/logo.png": "/SwimCoach-Fullstack/static/media/logo.de904ba0ef88dd3e5aa3.png",
+    "static/media/white-backgrounds.jpg": "/SwimCoach-Fullstack/static/media/white-backgrounds.e8b74746226cf027e5cc.jpg",
+    "index.html": "/SwimCoach-Fullstack/index.html",
+    "main.c95c06f7.css.map": "/SwimCoach-Fullstack/static/css/main.c95c06f7.css.map",
+    "main.1fbda610.js.map": "/SwimCoach-Fullstack/static/js/main.1fbda610.js.map",
+    "453.258b012d.chunk.js.map": "/SwimCoach-Fullstack/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c95c06f7.css",
+    "static/js/main.1fbda610.js"
+  ]
+}
